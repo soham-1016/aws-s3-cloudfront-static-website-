@@ -12,6 +12,13 @@ This project demonstrates static website hosting using Amazon S3 and content del
 
 ## What I Did
 - Created and configured an S3 bucket for static website hosting
+- ## Screenshots
+
+### S3 Bucket Configuration
+![S3 Bucket](s3-bucket.png)
+
+### Final Website Output
+![Website Output](final-website.png)
 - Uploaded website files to the S3 bucket
 - Configured permissions for public access
 - Integrated CloudFront for faster content delivery
