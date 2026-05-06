@@ -29,8 +29,5 @@ Successfully hosted a static website on AWS and gained hands-on experience with 
 ### CloudFront Distribution
 ![CloudFront](cloudfront.png)
 
-### Website via CloudFront
-![CloudFront Output](cloudfront-output.png)
-
 ### Final Website Output
 ![Website Output](final-website.png)
